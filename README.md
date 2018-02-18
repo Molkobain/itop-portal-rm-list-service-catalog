@@ -7,11 +7,11 @@ Remove the *list* view from the service catalog of the user portal.
 
 *Before*
 
-![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-list-service-catalog/master/docs/mprlsc-service-catalog-01.PNG)
+![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-list-service-catalog/master/docs/mprlsc-service-catalog-before.PNG)
 
 *After*
 
-![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-list-service-catalog/master/docs/mprlsc-service-catalog-02.PNG)
+![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-list-service-catalog/master/docs/mprlsc-service-catalog-after.PNG)
 
 ### Compatibility
 Compatible with iTop 2.3+
