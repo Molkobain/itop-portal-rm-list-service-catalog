@@ -1,3 +1,5 @@
+👋 [Available on Molkobain I/O!](https://www.molkobain.com/product/remove-list-service-catalog/)
+
 # iTop extension: molkobain-portal-rm-list-service-catalog
 
 ### Description
