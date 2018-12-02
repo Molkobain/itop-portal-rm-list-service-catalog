@@ -14,7 +14,7 @@ SetupWebPage::AddModule(
 	'molkobain-portal-rm-list-service-catalog/1.0.0', array(
 	// Identification
 	'label' => 'Portal: Remove list view from service catalog',
-		'category' => 'Portal',
+		'category' => 'portal',
 	// Setup
 	'dependencies' => array(
         'itop-portal/1.0.0',
